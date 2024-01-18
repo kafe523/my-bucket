@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "description": "Simple cli tool for generate one time password build with rust.",
+    "homepage": "https://github.com/kafe523/pwgen",
+    "license": "Unknown",
+    "url": "https://github.com/kafe523/pwgen/releases/download/v0.1.0/pwgen_v0.1.0_x86_64-pc-windows-gnu.zip",
+    "extract_dir": "pwgen",
+    "bin": "pwgen.exe"
+}
