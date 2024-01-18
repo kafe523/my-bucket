@@ -4,6 +4,7 @@
     "homepage": "https://github.com/kafe523/pwgen",
     "license": "Unknown",
     "url": "https://github.com/kafe523/pwgen/releases/download/v0.1.0/pwgen_v0.1.0_x86_64-pc-windows-gnu.zip",
-    "extract_dir": "pwgen",
+    "extract_to": "pwgen",
+    "hash": "9c602c526f4d721f06f1de5dfcea10aaa875a3d424310a3bf136eb69e57e8855",
     "bin": "pwgen.exe"
 }
